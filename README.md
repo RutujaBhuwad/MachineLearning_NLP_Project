@@ -1,1 +1,5 @@
 # MachineLearning_NLP_Project
+
+In recent years, e-commerce fashion has been evolving at a faster rate than it has ever before. Consumer preferences are evolving; values are becoming more important in buying decisions. Today’s consumers have access to many e-commerce websites from which to make purchases. 
+
+Zalando is one of them; it is a multi-national German based e-commerce website; it has customers in 23 European markets that can purchase fashion and lifestyle products. Zalando intends to offer competitive prices in each of its changing market situations to save clients time comparing prices and to raise profits. Therefore, Zalando must determine exact product similarities across all products offered by European competitors. In this paper, I proposed a method that uses Machine learning, Natural Language Processing and shallow neural network techniques such as Fasttext, the pre-trained model. Furthermore, by translating text descriptions into Word2vec using a pre-trained model and comparing each product of Zalando with one of its competitors, to find the exact match.
